@@ -3,7 +3,7 @@
 ![cPanel DNS Audit Cover](./cpanel-dns-audit-cover.webp)
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](./cp-dns-audit.sh)
-[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](./LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20cPanel%20%2F%20WHM%20%7C%20BIND9-orange.svg)](#requirements)
 
 > 🇧🇷 **[Leia em Português (README-ptbr.md)](./README-ptbr.md)**
@@ -104,4 +104,4 @@ workspace.example.com      | LOCAL   | aspmx.l.google.com           | CNAME:142.
 
 ## License
 
-Licensed under the [GPL-3.0 License](./LICENSE).
+Licensed under the [Apache-2.0 License](./LICENSE).
